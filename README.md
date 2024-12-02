@@ -3,6 +3,7 @@
 My name is Mina and I'm currently a student studying Computer Science! My main areas of interest are software development and exploring the intersection between liberal arts and AI. 
 
 ⚙️ Programming Languages: Java, Python, Kotlin, R, HTML, CSS, JavaScript
+
 🔧 Tools, Technologies: Git, React, TensorFlow, scikit-learn, Google Colab, VSCode, IntelliJ, OpenCV
 
 🐸 Some of my projects include:
