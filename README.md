@@ -7,6 +7,7 @@ My name is Mina and I'm currently a student studying Computer Science! My main a
 🔧 Tools, Technologies: Git, React, TensorFlow, scikit-learn, Google Colab, VSCode, IntelliJ, OpenCV
 
 🐸 Some of my projects include:
+- Satellite Image Classification
 - Happiness Score Predictor
 - Sleep Tracker App
 - Space Race - Exercise and Wellbeing App
