@@ -14,6 +14,7 @@ My name is Mina and I'm currently a student studying Computer Science! My main a
 - Fighter Game
 - Mood Classification in Music with Machine Learning
 - Tab Manager Chrome Extension
+- Personal Website: https://mintudse.github.io/playground-site/
  
 <!--
 **mintudse/mintudse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
